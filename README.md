@@ -1,8 +1,10 @@
 ### Hi, I'm Ty 👋
 
-I work with the Microsoft Power Platform and my passion is mixing <img src="https://img.shields.io/badge/Vue-grey?logo=vue.js&style=plastic" />  &  <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" /> with CRM.
+I am a Microsoft technologist focused on building solutions with Azure and the Power Platform.
 
-I also run a blog <https://tldr-dynamics.com> where I document my tools and share cool things I learn along the way.
+I love finding ways to use <img src="https://img.shields.io/badge/Vue-grey?logo=vue.js&style=plastic" /> & <img src="https://img.shields.io/badge/React-grey?logo=react&style=plastic" /> to improve solutions I deliver in Dynamics 365/Dataverse.
+
+My blog <https://tldr-dynamics.com> is where I document my tools and share things I have learned along the way. I hope you will check it out and find something useful there.
 
 <a href="https://www.linkedin.com/in/ty-corcoran-a62a8221/" alt="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/Connect-blue?logo=linkedin&style=plastic" /></a>
 <a href="mailto:tldr.dynamics@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-grey?logo=gmail&style=plastic" /></a>
