@@ -10,5 +10,5 @@ I love finding ways to use <img src="https://img.shields.io/badge/Vue-grey?logo=
 <a href="mailto:tldr.dynamics@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-grey?logo=gmail&style=plastic" /></a>
 <a href="https://twitter.com/TyCorcoran5" alt="Twitter" target="_blank"><img src="https://img.shields.io/twitter/follow/TyCorcoran5?label=Follow&style=social" /></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tcorcor1&count_private=true&show_icons=true&theme=dark&layout=compact&hide=prs,contribs" alt="Tcorcor1 GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcorcor1&show_icons=true&locale=en&layout=compact&theme=dark" alt="Tcorcor1 GitHub Top Languages" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tcorcor1&count_private=true&show_icons=true&theme=dark&layout=compact&hide=prs,contribs" alt="Tcorcor1 GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcorcor1&show_icons=true&locale=en&layout=compact&theme=dark" alt="Tcorcor1 GitHub Top Languages" /> -->
